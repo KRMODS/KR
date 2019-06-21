@@ -1,22 +1,21 @@
-{"version_code":451241,"content":"
-<p>تحديث 12.00 </p>
+{"version_code":451251,"content":"
+<p>تحديث 13.00 </p>
 
-<li>التحديث لنسخة الماركت 2.19.17</li>
-<li>إضافة الفيسات الجديدة</li>
-<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
-<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
-<li>اصلاح الانهيار عند محاولة البحث عن ثيمات</li>
-<li>اصلاح اضافة الملصقات من قوقل بلاي</li>
-<li>إصلاحات اخرى</li>
+<li>*نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
+<li>*اصدار خفيف (نسخة خفيفه وسريعه ولكن لاتحمل كامل المميزات)</li>
+<li>*تمديد صلاحية النسخة لمدة شهرين</li>
+<li>*اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
+<li>*اصلاح لون الدفعات في شاشة المحادثة</li>
+<li>*اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
+<li>*اصلاحات اخرى</li>
 
-<li> Added Now You can Add Stickers From PlayStore to any Package</li>
-<li> New Base Updated to 2.19.17</li>
-<li> Added New Emojis</li>
-<li> Added You can call Participants in groups</li>
-<li> Added Reply Privately when select message in groups</li>
-<li> Fixed Added Stickers From Google Play Apps</li>
-<li> Fixed Crash when search in themes</li>
-<li> Many More Fixes</li>
+<li>* Anti-Ban (If you got banned before please take Backup - Uninstall App / Install KRWhatsApp v13.00 again)</li>
+<li>* Lite release (It is a lightweight and fast version but does not carry full features)</li>
+<li>* Extend expiry for this Base</li>
+<li>* Fixed Hidden Chat Count Showing on Main Screen</li>
+<li>* Fixed Payments Color in Attach Menu</li>
+<li>* Fixed Crash when open chat in some devices</li>
+<li>* Other Fixes</li>
 
 ","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
 }
