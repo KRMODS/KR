@@ -1,21 +1,38 @@
-{"version_code":451251,"content":"
-<p>تحديث 13.00 </p>
+{"version_code":451260,"content":"
+<p>تحديث 14.00 </p>
 
-<li>*نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
-<li>*اصدار خفيف (نسخة خفيفه وسريعه ولكن لاتحمل كامل المميزات)</li>
-<li>*تمديد صلاحية النسخة لمدة شهرين</li>
-<li>*اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
-<li>*اصلاح لون الدفعات في شاشة المحادثة</li>
-<li>*اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
-<li>*اصلاحات اخرى</li>
-
-<li>* Anti-Ban (If you got banned before please take Backup - Uninstall App / Install KRWhatsApp v13.00 again)</li>
-<li>* Lite release (It is a lightweight and fast version but does not carry full features)</li>
-<li>* Extend expiry for this Base</li>
-<li>* Fixed Hidden Chat Count Showing on Main Screen</li>
-<li>* Fixed Payments Color in Attach Menu</li>
-<li>* Fixed Crash when open chat in some devices</li>
-<li>* Other Fixes</li>
+<li>تحديث قاعدة 2.19.69</li>
+	<li>تحسين ضد الحظر (إصلاح مشكلة الحظر المؤقت)</li>
+	<li>اضافةخلفيات جديدة وتنسيق روعه ليلائم العيد</li>
+	<li>اضافةرسائل عيد الاضحى المبارك فقط عليك تنسخ وتلصق</li>
+	<li>ملاحظة مهمة إذا تم حظرك قبل او بعد تنزيل هذه النسخة :</li>
+	<li>1- قم بعمل نسخة احتياطية لمحادثاتك من (الإعدادات > الدردشات > نسخ احتياطي للدردشات)</li>
+	<li>2- إلغاء تثبيت إصدار WhatsApp الخاص بك</li>
+	<li>3- قم بتثبيت KRWhatsApp v14.00 وقم بالتحقق وتفعيل رقمك مرة أخرى</li>
+	<li>تحديث ترجمة التطبيق</li>
+	<li>إضافة تطبيق KRStatus Splitter لمشاركة الفيديو بالكامل في الحالة</li>
+	<li>إضافة تطبيق KRStickers Maker لمشاركة وصنع الملصقات الخاصة بك</li>
+	<li>إضافة تطبيق KRWhatsApp Wallpaper للحصول على خلفيات رائعه جدا وبدقة عالية</li>
+	<li>إضافة تطبيق KRStickers لاضافة ملصقات جديدة للواتس اب </li>
+	<li>إضافة الخيار 5.7 وتعطيل الخيار 5.6 لحمايتك من الحظر</li>
+	<li>إصلاح اضافة الملصقات من جوجل بلاي</li>
+	<li>إصلاح اصلاح الانهيار عند فتح التطبيق في بعض الاصدارات</li>
+	<li>اخرى العديد من الاصلاحات الأخرى</li>
+	<li></li>
+	<li></li>
+	<li>Base Update2.19.69</li>
+	<li>Improved Anti-Ban (Fixed Temporarily Banned Problem)</li>
+	<li>Important Note If You Got Banned Before Or After Install This Version :</li>
+	<li>1- Take Backup Of Your Chats From (Settings > Chats > Backup Chats)</li>
+	<li>2- Uninstall Your WhatsApp Version</li>
+	<li>3- Install KR3WhatsApp v14.00 And Verify Your Number Again</li>
+	<li>Updated App Translation</li>
+	<li>Added KRStatus Splitter App To Help You Share Full Video Into Status</li>
+	<li>Added Option 5.7 And Disable Option 5.6 To Protect You From Getting Banned</li>
+	<li>Added Support Forum To Help You Get Answers For Your Questions</li>
+	<li>Fixed Added Stickers From Google Play Apps</li>
+	<li>Fixed Crash When Open App In Some Devices</li>
+	<li>Other Many Other Fixes</li>
 
 ","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
 }
