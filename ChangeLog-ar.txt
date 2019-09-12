@@ -1,38 +1,36 @@
-{"version_code":451260,"content":"
-<p>تحديث 14.00 </p>
+{"version_code":451280,"content":"
+<p>تحديث 15.50 </p>
 
-<li>تحديث قاعدة 2.19.69</li>
-	<li>تحسين ضد الحظر (إصلاح مشكلة الحظر المؤقت)</li>
-	<li>اضافةخلفيات جديدة وتنسيق روعه ليلائم العيد</li>
-	<li>اضافةرسائل عيد الاضحى المبارك فقط عليك تنسخ وتلصق</li>
+
+  <li>مبني على الاصدار[2.19.230]</li>
+  <li>تحسين ضد الحظر (إصلاح مشكلة الحظر المؤقت)</li>
 	<li>ملاحظة مهمة إذا تم حظرك قبل او بعد تنزيل هذه النسخة :</li>
 	<li>1- قم بعمل نسخة احتياطية لمحادثاتك من (الإعدادات > الدردشات > نسخ احتياطي للدردشات)</li>
 	<li>2- إلغاء تثبيت إصدار WhatsApp الخاص بك</li>
 	<li>3- قم بتثبيت KRWhatsApp v14.00 وقم بالتحقق وتفعيل رقمك مرة أخرى</li>
-	<li>تحديث ترجمة التطبيق</li>
-	<li>إضافة تطبيق KRStatus Splitter لمشاركة الفيديو بالكامل في الحالة</li>
-	<li>إضافة تطبيق KRStickers Maker لمشاركة وصنع الملصقات الخاصة بك</li>
-	<li>إضافة تطبيق KRWhatsApp Wallpaper للحصول على خلفيات رائعه جدا وبدقة عالية</li>
-	<li>إضافة تطبيق KRStickers لاضافة ملصقات جديدة للواتس اب </li>
-	<li>إضافة الخيار 5.7 وتعطيل الخيار 5.6 لحمايتك من الحظر</li>
-	<li>إصلاح اضافة الملصقات من جوجل بلاي</li>
-	<li>إصلاح اصلاح الانهيار عند فتح التطبيق في بعض الاصدارات</li>
-	<li>اخرى العديد من الاصلاحات الأخرى</li>
-	<li></li>
-	<li></li>
-	<li>Base Update2.19.69</li>
-	<li>Improved Anti-Ban (Fixed Temporarily Banned Problem)</li>
-	<li>Important Note If You Got Banned Before Or After Install This Version :</li>
-	<li>1- Take Backup Of Your Chats From (Settings > Chats > Backup Chats)</li>
-	<li>2- Uninstall Your WhatsApp Version</li>
-	<li>3- Install KR3WhatsApp v14.00 And Verify Your Number Again</li>
-	<li>Updated App Translation</li>
-	<li>Added KRStatus Splitter App To Help You Share Full Video Into Status</li>
-	<li>Added Option 5.7 And Disable Option 5.6 To Protect You From Getting Banned</li>
-	<li>Added Support Forum To Help You Get Answers For Your Questions</li>
-	<li>Fixed Added Stickers From Google Play Apps</li>
-	<li>Fixed Crash When Open App In Some Devices</li>
-	<li>Other Many Other Fixes</li>
+	<li>[يدعم]اللغه الاسبانيه</li>
+	<li>[إضافة]ميزة نسخ حالة جهة الاتصال</li>
+	<li>[إضافة]خمس ايقونات جديده للاشعارات</li>
+	<li>[إضافة]خيار عدم فتح الكيبورد بشكل تلقائي عند دخول محادثة</li>
+	<li>[إضافة]خيار لتبديل بين محركين البحث للصورة المتحركة تفعيل محرك بحث تينور الغاء تفعيل محرك بحث جيفي</li>
+	<li>[إضافة]خيار ايقاف عداد الرسائل</li>
+	<li>[تحسينات]في واجهة القفل</li>
+	<li>[اصلاح]مشكلة الانهيارات عند تشغيل التطبيق في بعض الاجهزه</li>
+	<li>[اصلاح]مشكله الحظر في النسخ المستنسخه</li>
+	<li>والمزيد من المميزات اكتشفها بنفسك</li>
 
+
+<li>Based on version [2.19.230]</li>
+	<li>[Release] 100% anti ban</li>
+	<li>[Supports] Spanish</li>
+	<li>[Add] Five new notifications icons</li>
+	<li>[Add] Option not to open keyboard automatically when entering a conversation</li>
+	<li>[Add] Option to switch between two search engines for GIF</li>
+	<li>[Add] Option to turn off message counter</li>
+	<li>[Add] Copy contact status</li>
+	<li>[Improvements] In the lock screen</li>
+	<li>[Fix] Problem crashes when running application in some devices</li>
+	<li>[Fix] Problem banning com.aywh</li>
+	<li>And more features you can explore yourself</li>
 ","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
 }
