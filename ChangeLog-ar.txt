@@ -30,7 +30,7 @@
 	<li>[Add] Copy contact status</li>
 	<li>[Improvements] In the lock screen</li>
 	<li>[Fix] Problem crashes when running application in some devices</li>
-	<li>[Fix] Problem banning com.aywh</li>
+	<li>[Fix] Problem banning com.krwh</li>
 	<li>And more features you can explore yourself</li>
 ","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
 }
