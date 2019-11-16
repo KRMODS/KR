@@ -1,32 +1,13 @@
-{"version_code":451285,"content":"
-<p>تحديث اصلاحي 15.90 </p>
+{"version_code":451295,"content":"
+<p>تحديث 16.00 </p>
+
+<li>نعتذر عن تاخير التحديث لضروف طارئة</li>
+	<li>عليك باكتشاف المميزات الجديدة بنفسك ^_^</li>
 
 
-  <li>تحسين ضد الحظر (إصلاح مشكلة الحظر المؤقت)</li>
-	<li>ملاحظة مهمة إذا تم حظرك قبل او بعد تنزيل هذه النسخة :</li>
-	<li>1- قم بعمل نسخة احتياطية لمحادثاتك من (الإعدادات > الدردشات > نسخ احتياطي للدردشات)</li>
-	<li>2- إلغاء تثبيت إصدار WhatsApp الخاص بك</li>
-	<li>3- قم بتثبيت KRWhatsApp v15.90 وقم بالتحقق وتفعيل رقمك مرة أخرى</li>
-	<li>بالنسبه الى الاشخاص الي اخذت حظر مؤقت يجب عليها فعل الأتي :
-قم بإطفاء الانترنت حتى لاتظهر صفحه الحظر في وجهك ثم تذهب الى الخيارات الاعدادات ثم الدردشات ثم النسخ الاحتياطي وتاخذ نسخة احتياطيه لدردشات وبعدها تحذف النسخة القديمه وتثبت الجديدة بنفس البكج ثم تضع رقمك وتفعله بالكود سوف يقول لك تم العثور على نسخة احتياطيه اختر استعادة وبيستعيد معك كل الدردشات ومبروك عليك</li>
-	<li>اصلاح مشكلة الحظر 100% ان شاء الله واذا صار حظر هو من سوء الاستخدام</li>
-	<li>اضافة ميزة منع حذف الحالة</li>
-	<li>اضافة ميزة اختيار اللون لخلفية وخط الحاله الكتابيه</li>
-	<li>اضافة مراسلة رقم غير محفوظ</li>
-	<li>والمزيد من المميزات اكتشفها بنفسك</li>
 
-
-<li>Based on version [2.19.230]</li>
-	<li>[Release] 100% anti ban</li>
-	<li>[Supports] Spanish</li>
-	<li>[Add] Five new notifications icons</li>
-	<li>[Add] Option not to open keyboard automatically when entering a conversation</li>
-	<li>[Add] Option to switch between two search engines for GIF</li>
-	<li>[Add] Option to turn off message counter</li>
-	<li>[Add] Copy contact status</li>
-	<li>[Improvements] In the lock screen</li>
-	<li>[Fix] Problem crashes when running application in some devices</li>
-	<li>[Fix] Problem banning com.krwh</li>
-	<li>And more features you can explore yourself</li>
+<li>We apologize for the delay of the update for emergency conditions</li>
+	<li> Discover new features yourself ^ _ ^</li>
+	
 ","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
 }
