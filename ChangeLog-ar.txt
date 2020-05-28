@@ -1,12 +1,32 @@
-{"version_code":451305‬,"content":"
-<p>تحديث 17.00 </p>
+{"version_code":451315‬,"content":"
+<p>تحديث 18.00 </p>
 
 <li>نعتذر عن تاخير التحديث لضروف طارئة</li>
-	<li>عليك باكتشاف المميزات الجديدة بنفسك ^_^</li>
-
+  <li>مبني على الاصدار[2.19.230]</li>
+	<li>[يدعم]اللغه الاسبانيه</li>
+	<li>[إضافة]ميزة نسخ حالة جهة الاتصال</li>
+	<li>[إضافة]خمس ايقونات جديده للاشعارات</li>
+	<li>[إضافة]خيار عدم فتح الكيبورد بشكل تلقائي عند دخول محادثة</li>
+	<li>[إضافة]خيار لتبديل بين محركين البحث للصورة المتحركة تفعيل محرك بحث تينور الغاء تفعيل محرك بحث جيفي</li>
+	<li>[إضافة]خيار ايقاف عداد الرسائل</li>
+	<li>[تحسينات]في واجهة القفل</li>
+	<li>[اصلاح]مشكلة الانهيارات عند تشغيل التطبيق في بعض الاجهزه</li>
+	<li>[اصلاح]مشكله الحظر في النسخ المستنسخه</li>
 
 
 <li>We apologize for the delay of the update for emergency conditions</li>
+<li>Based on version [2.19.230]</li>
+	<li>[Release] 100% anti ban</li>
+	<li>[Supports] Spanish</li>
+	<li>[Add] Five new notifications icons</li>
+	<li>[Add] Option not to open keyboard automatically when entering a conversation</li>
+	<li>[Add] Option to switch between two search engines for GIF</li>
+	<li>[Add] Option to turn off message counter</li>
+	<li>[Add] Copy contact status</li>
+	<li>[Improvements] In the lock screen</li>
+	<li>[Fix] Problem crashes when running application in some devices</li>
+	<li>[Fix] Problem banning com.aywh</li>
+	<li>And more features you can explore yourself</li>
 	<li> Discover new features yourself ^ _ ^</li>
 	
 ","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
